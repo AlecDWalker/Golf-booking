@@ -1,0 +1,1 @@
+CREATE TABLE bookings(id SERIAL PRIMARY KEY, name VARCHAR(30), date DATE, time TIME);
